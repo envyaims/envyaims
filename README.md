@@ -1,4 +1,6 @@
 im cool
 
-USACO gold loser
+noob in USACO Gold
+
+
 Stuy '25
