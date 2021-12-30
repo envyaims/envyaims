@@ -1,4 +1,4 @@
 im cool
 
-noob in USACO Gold
+also noob in USACO Gold
 
