@@ -1,6 +1,6 @@
 im cool
 
-also noob comeptitive programmer
+also noob competitive programmer
 
 
 USACO Gold
