@@ -1,4 +1,5 @@
 im cool
 
-also noob in USACO Gold
+also noob comeptitive programmer
+USACO Gold
 
