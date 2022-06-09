@@ -1,6 +1,6 @@
 **im cool**
 
-USACO Gold i think
+USACO Gold
 
 [USACO Guide](https://usaco.guide/) Content Author
 
