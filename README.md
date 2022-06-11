@@ -7,3 +7,5 @@ USACO Gold Division
 Stuy '25
 
 Profiles: [CodeForces](https://codeforces.com/profile/uwuenvy), [AtCoder](https://atcoder.jp/users/envifly), [CodeChef](https://www.codechef.com/users/envyaims)
+
+<img width='25%' src='https://pruvi007-apis.herokuapp.com/CF/uwuenvy' />
