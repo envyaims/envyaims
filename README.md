@@ -1,6 +1,6 @@
 **im cool**
 
-USACO Gold Division
+USACO Platinum Division
 
 [USACO Guide](https://usaco.guide/) Content Author
 
