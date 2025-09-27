@@ -1,6 +1,6 @@
 ## I do competitive programming sometimes.
 
-- NYU Class of 2029
+- CS @ NYU
 - Former USACO Platinum Division Competitor
 - USACO Problem Writer & Coach
 - [USACO Guide](https://usaco.guide/) Content Author
